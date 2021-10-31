@@ -54,6 +54,7 @@ export default function SignIn() {
             {...register('email')}
           />
           <Input
+            id="Senha"
             name="password"
             type="password"
             label="Senha"
